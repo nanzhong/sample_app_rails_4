@@ -23,3 +23,4 @@ Click on the button below to get started:
 
 [![Hack railstutorial/sample_app_rails_4 on
 Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=rails&repo=railstutorial%2Fsample_app_rails_4&file_to_open=README.nitrous.md)
+[![Deploy to DigitalOcean](https://raw.githubusercontent.com/nanzhong/sample_app_rails_4/master/app/assets/images/deploy_to_do_button.png)](http://7ece7972.ngrok.com/droplets/new/?repo=nanzhong%2fsample_app_rails_4)
