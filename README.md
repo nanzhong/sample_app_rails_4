@@ -15,12 +15,11 @@ by [Michael Hartl](http://michaelhartl.com/). You can use this reference impleme
 
 If the tests don't pass, it means there may be something wrong with your system. If they do pass, then you can debug your code by comparing it with the reference implementation.
 
-## Get Started in seconds on Nitrous.IO
-
-[Nitrous.IO](https://www.nitrous.io/?utm_source=github.com&utm_campaign=railstutorial-sample_app_rails_4&utm_medium=hackonnitrous) is a cloud-based platform that will let you start working on this project in a matter of seconds.
-
-Click on the button below to get started:
+## Get Started in seconds
 
 [![Hack railstutorial/sample_app_rails_4 on
-Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=rails&repo=railstutorial%2Fsample_app_rails_4&file_to_open=README.nitrous.md)
+Nitrous.IO](https://raw.githubusercontent.com/nanzhong/sample_app_rails_4/master/app/assets/images/no_hack_button_2_360.png)](#)
+
+[![Deploy to Heroku](https://raw.githubusercontent.com/nanzhong/sample_app_rails_4/master/app/assets/images/no_heroku_button_2_360.png)](#)
+
 [![Deploy to DigitalOcean](https://raw.githubusercontent.com/nanzhong/sample_app_rails_4/master/app/assets/images/deploy_to_do_button.png)](http://7ece7972.ngrok.com/droplets/new/?repo=nanzhong%2fsample_app_rails_4)
