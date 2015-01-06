@@ -14,12 +14,3 @@ by [Michael Hartl](http://michaelhartl.com/). You can use this reference impleme
     bundle exec rspec spec/
 
 If the tests don't pass, it means there may be something wrong with your system. If they do pass, then you can debug your code by comparing it with the reference implementation.
-
-## Get Started in seconds
-
-[![Hack railstutorial/sample_app_rails_4 on
-Nitrous.IO](https://raw.githubusercontent.com/nanzhong/sample_app_rails_4/master/app/assets/images/no_hack_button_2_360.png)](#)
-
-[![Deploy to Heroku](https://raw.githubusercontent.com/nanzhong/sample_app_rails_4/master/app/assets/images/no_heroku_button_2_360.png)](#)
-
-[![Deploy to DigitalOcean](https://raw.githubusercontent.com/nanzhong/sample_app_rails_4/master/app/assets/images/deploy_to_do_button.png)](http://localhost:3001/droplets/new/?repo=nanzhong%2fsample_app_rails_4)
